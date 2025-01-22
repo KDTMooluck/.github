@@ -1,61 +1,48 @@
-<h2 style="text-align: center;">💻 프로젝트 팀 소개 💻</h2>
 
-<table style="text-align: center;">
-  <tr height="160px">
-    <td style="text-align: center; width: 150px;">
-      <a href="https://github.com/cheonghaa">
-        <img src="https://avatars.githubusercontent.com/u/148474216?v=4" height="130px" width="130px" />
-        <br />
-        <strong>이도윤</strong><br />
-        <span>팀장(PM), Open AI 연동</span>
-      </a>
-    </td>
-    <td style="text-align: center; width: 150px;">
-      <a href="https://github.com/heodoong">
-        <img src="https://avatars.githubusercontent.com/u/170384564?v=4" height="130px" width="130px" />
-        <br />
-        <strong>서수호</strong><br />
-        <span>프론트엔드 설계, 연구 자료 조사</span>
-      </a>
-    </td>
-    <td style="text-align: center; width: 150px;">
-      <a href="https://github.com/kogunwoo">
-        <img src="https://avatars.githubusercontent.com/u/113786196?v=4" height="130px" width="130px" />
-        <br />
-        <strong>고건우</strong><br />
-        <span>백엔드 설계, API 통합 연동</span>
-      </a>
-    </td>
-    <td style="text-align: center; width: 150px;">
-      <a href="https://github.com/YooSeokHwan">
-        <img src="https://avatars.githubusercontent.com/u/170384539?v=4" height="130px" width="130px" />
-        <br />
-        <strong>유석환</strong><br />
-        <span>DB 설계 및 데이터 시각화, GitHub 관리</span>
-      </a>
-    </td>
-    <td style="text-align: center; width: 150px;">
-      <a href="https://github.com/yeonsoo1010">
-        <img src="https://avatars.githubusercontent.com/u/128021464?v=4" height="130px" width="130px" />
-        <br />
-        <strong>조연수</strong><br />
-        <span>UI/UX 디자인, 반응 애니메이션 및 인터랙션</span>
-      </a>
-    </td>
-    <td style="text-align: center; width: 150px;">
-      <a href="https://github.com/wpfkf4644">
-        <img src="https://avatars.githubusercontent.com/u/170283983?v=4" height="130px" width="130px" />
-        <br />
-        <strong>안젤라</strong><br />
-        <span>인증 및 보안 시스템 개발, 서버 인프라 구축</span>
-      </a>
-    </td>
-  </tr>
-</table>
+## Introduction
+
+
+
+## 💻 프로젝트 팀원 소개 💻
 
 |▪ 이도윤 ▪|▪ 고건우 ▪|▪ 서수호 ▪|▪ 안젤라 ▪|▪ 유석환 ▪|▪ 조연수 ▪|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |<img src="https://avatars.githubusercontent.com/u/148474216?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/113786196?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/170384564?v=4" height="130px" width="130px" />| <img src="https://avatars.githubusercontent.com/u/170283983?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/170384539?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/128021464?v=4" height="130px" width="130px" />|
-팀장, PM<br>JWT 로그인<br><a href="https://github.com/woo427">@github</a>|백엔드 관리자<br>버그 트래커, 이슈 관리자<br><a href="https://github.com/imdayoung">@github</a>|팀장, PM<br>UI/UX 디자인 총괄<br><a href="https://github.com/cheonghaa">@github</a>|프론트엔드 총괄<br>DB관리자<br><a href="https://github.com/leedoha11">@github</a>|깃허브 관리자<br>문서화 담당<br><a href="https://github.com/Jungdaye89">@github</a>|
+팀장 PM<br> 로그인 기능 <br><a href="https://github.com/cheonghaa">@cheonghaa</a>|상호작용 BE <br> AI (TTS/STT) <br><a href="https://github.com/kogunwoo">@kogunwoo </a>|아이디어 기획 <br> 애니메이션 <br><a href="https://github.com/heodoong">@heodoong</a>|AI 관리자 <br> 인프라 설계 <br><a href="https://github.com/ttottonuna">@ttottonuna</a>|DB관리자 <br>인프라 설계 <br><a href="https://github.com/YooSeokhwan">@YooSeokhwan</a>| 날씨 API<br> 관리자 페이지 <br><a href="https://github.com/yeonsoo1010">@yeonsoo1010</a>|
 
 ## 🗨 About Service
+<img width="693" src="https://github.com/user-attachments/assets/23ef9928-d280-48c6-9ce8-9173cc11d3cd" />
+
+1️⃣ <br>
+2️⃣ <br>
+3️⃣ <br>
+
+
+
+## ✔ System Architecture
+<img width="684" src="https://github.com/user-attachments/assets/e1a8bdb8-8f74-4023-af00-1caea37cbb87" />
+
+
+## ✔ ERD diagram
+<img width="751" src="https://github.com/user-attachments/assets/5f04ac74-6bba-48b2-a5df-9743067a496d" />
+
+## 🛠️ Tech Stacks
+![image](https://img.shields.io/badge/Illustrator-654520?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![image](https://img.shields.io/badge/Git-EB5B00?style=for-the-badge&logo=Git&logoColor=white)<br/>
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![image](https://img.shields.io/badge/Javascript-FEEC37?style=for-the-badge&logo=Javascript&logoColor=white)
+![image](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)<br/>
+![image](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![image](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
+![image](https://img.shields.io/badge/Open%20API-181717?style=for-the-badge&logo=Open%20API&logoColor=white)
+
+
+
+## 🙆‍♀️ Collaboration Tool
+![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![image](https://img.shields.io/badge/Jira-024CAA?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![image](https://img.shields.io/badge/Figma-C68FE6?style=for-the-badge&logo=Figma&logoColor=white)
