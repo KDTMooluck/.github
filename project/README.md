@@ -54,11 +54,12 @@
 ## 🛠️ Tech Stacks
 <div align="center">
   <img src="https://img.shields.io/badge/Illustrator-654520?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Git-EB5B00?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/><br/>
+  <img src="https://img.shields.io/badge/Git-EB5B00?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Javascript-FEEC37?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/><br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/><br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" alt="Amazon S3"/>
@@ -71,7 +72,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Jira-024CAA?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Jira-024CAA?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/><br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Figma-C68FE6?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
 </div>
