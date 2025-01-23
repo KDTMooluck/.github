@@ -33,7 +33,9 @@
 
 ## ✔ Service
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/f51b6fdb-e16d-43fd-af5e-8c750d6de988" alt="KakaoTalk_Photo_2025-01-23-16-07-21" />
+    <img width="400" height="250" src="https://github.com/user-attachments/assets/f51b6fdb-e16d-43fd-af5e-8c750d6de988" />
+    <img width="400" height="250" src="https://github.com/user-attachments/assets/2bdc9f44-4b99-4c4e-82e2-94db1455728f" />
+    <p> (왼쪽 사진 : 무럭이 페이지 / 오른쪽 사진 : 관리자 페이지 ) </p>
 </div>
 <br>
 1️⃣ STT/TTS를 통한 무럭이와의 양방향 소통 <br>
@@ -45,7 +47,7 @@
 
 ## ✔ System Architecture
 <div align="center">
-  <img width="684" src="https://github.com/user-attachments/assets/e1a8bdb8-8f74-4023-af00-1caea37cbb87" />
+  <img width="485" alt="스크린샷 2025-01-23 오후 4 17 05" src="https://github.com/user-attachments/assets/4567b7f3-df2b-450d-b9e9-72a1c6ffaeb5" />
 </div>
 <br>
 <br>
