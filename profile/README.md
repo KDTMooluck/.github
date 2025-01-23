@@ -71,8 +71,7 @@
 ## 🙆‍♀️ Collaboration Tool
 <div align="center">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Jira-024CAA?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/><br>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/><br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Figma-C68FE6?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
 </div>
