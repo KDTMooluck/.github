@@ -22,7 +22,7 @@
 
 ## 💬 About Our Service
 <div align="center">
-  <img width="693" src="https://github.com/user-attachments/assets/23ef9928-d280-48c6-9ce8-9173cc11d3cd" />
+  <img width="400" src="https://github.com/user-attachments/assets/23ef9928-d280-48c6-9ce8-9173cc11d3cd" />
   <br>
   <br>
   <p>노인분들의 편리한 사용을 위하여 직관적인 UI/UX로 사용자가 사용에 어려움을 느끼지 않도록 터치 요소와 기능들을 간소화 및 최소화하였습니다.</p>
