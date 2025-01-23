@@ -14,7 +14,7 @@
 |▪ 이도윤 ▪|▪ 고건우 ▪|▪ 서수호 ▪|▪ 안젤라 ▪|▪ 유석환 ▪|▪ 조연수 ▪|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |<img src="https://avatars.githubusercontent.com/u/148474216?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/113786196?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/170384564?v=4" height="130px" width="130px" />| <img src="https://avatars.githubusercontent.com/u/170283983?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/170384539?v=4" height="130px" width="130px" />|<img src="https://avatars.githubusercontent.com/u/128021464?v=4" height="130px" width="130px" />|
-팀장 PM<br> 로그인 기능 <br><a href="https://github.com/cheonghaa">@cheonghaa</a>|상호작용 BE <br> AI(TTS/STT) <br><a href="https://github.com/kogunwoo">@kogunwoo </a>|아이디어 기획 <br> 애니메이션 <br><a href="https://github.com/heodoong">@heodoong</a>|AI(TTS/STT) 관리자<br> 인프라 설계 <br><a href="https://github.com/ttottonuna">@ttottonuna</a>|DB관리자 <br>인프라 설계 <br><a href="https://github.com/YooSeokhwan">@YooSeokhwan</a>| 날씨 API<br> 관리자 페이지 <br><a href="https://github.com/yeonsoo1010">@yeonsoo1010</a>|
+팀장 PM<br> 로그인 기능 <br><a href="https://github.com/cheonghaa">@cheonghaa</a>|상호작용 BE <br> AI(TTS/STT) <br><a href="https://github.com/kogunwoo">@kogunwoo </a>|아이디어 기획 <br> 애니메이션 <br><a href="https://github.com/heodoong">@heodoong</a>|AI(TTS/STT) 관리<br> 인프라 설계 <br><a href="https://github.com/ttottonuna">@ttottonuna</a>|DB 관리 <br>인프라 설계 <br><a href="https://github.com/YooSeokhwan">@YooSeokhwan</a>| 날씨 API<br> 관리자 페이지 <br><a href="https://github.com/yeonsoo1010">@yeonsoo1010</a>|
 <br>
 <br>
 
@@ -71,7 +71,7 @@
 ## 🙆‍♀️ Collaboration Tool
 <div align="center">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/><br>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Figma-C68FE6?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
 </div>
