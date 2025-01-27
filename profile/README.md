@@ -10,17 +10,22 @@
 <br>
 <br>
 
+
+
 ## ✍️ 프로젝트 개요
 
 - **프로젝트명:** 무럭이 키우기
 - **프로젝트 기간:** 2024.09 ~ 2024.11.21 (고도화 기간 : 2024.12.03 ~ 2025.01.23)
 - **프로젝트 형태:** 해커톤 참가 프로젝트
-- **목표:** : 1. 독거노인의 정서적 안정을 위한 반려식물 서비스 지원 2.돌봄기관 측에 편리하고 빠르게 노인들을 관리할 수 있는 서비스 제공
+- **목표:**
+  - 독거노인의 정서적 안정을 위한 반려식물 서비스 지원
+  - 돌봄기관 측에 편리하고 빠르게 노인들을 관리할 수 있는 서비스 제공
 - **주요 타겟 사용자:** 독거 노인 돌봄 기관 측에서 도입, 실 사용자는 소외된 독거노인 분들을 실타겟층으로 설정
 
+<br>
+<br>
 
-<br>
-<br>
+
 ## 💻 프로젝트 팀 소개 💻
 <div align="center">
 <h3> Team | Spring Retriever </h3>
@@ -103,8 +108,10 @@
 
 ### **2. 관리자 페이지**
 <div align="center">
-    <img width="1268" alt="관리자 페이지 1" src="https://github.com/user-attachments/assets/003aae21-585a-4f70-8ebd-0cb652ddbaee" />
+    <img width="600" src="https://github.com/user-attachments/assets/003aae21-585a-4f70-8ebd-0cb652ddbaee" />
 </div>
+
+
 
 - 관리자 측에서 관리하고 있는 노인분들에 대한 데이터와 로그 확인이 가능합니다.
 - 상호작용 횟수
@@ -112,19 +119,22 @@
   - 1회: 주황색으로 '경고' 표시
   - 2회 이상: 초록색으로 '양호' 표시	
 
-
+#### 관리자 페이지 특징
+<div align="center">
+<img width="1200" src="https://github.com/user-attachments/assets/52bd5d31-c8cc-4875-b43f-59588c54d6aa" />
+</div>
 <br>
 
 ## ✔ System Architecture
 <div align="center">
-  <img width="485" alt="스크린샷 2025-01-23 오후 4 17 05" src="https://github.com/user-attachments/assets/4567b7f3-df2b-450d-b9e9-72a1c6ffaeb5" />
+  <img width="600" src="https://github.com/user-attachments/assets/4567b7f3-df2b-450d-b9e9-72a1c6ffaeb5" />
 </div>
 <br>
 <br>
 
 ## ✔ ER Diagram
 <div align="center">
-  <img width="751" src="https://github.com/user-attachments/assets/5f04ac74-6bba-48b2-a5df-9743067a496d" />
+  <img width="600" src="https://github.com/user-attachments/assets/5f04ac74-6bba-48b2-a5df-9743067a496d" />
 </div>
 <br>
 <br>
