@@ -121,13 +121,13 @@
 
 #### 관리자 페이지 특징
 <div align="center">
-<img width="1200" src="https://github.com/user-attachments/assets/52bd5d31-c8cc-4875-b43f-59588c54d6aa" />
+<img width="1200" src="https://github.com/user-attachments/assets/53f190af-6404-489c-b28c-29ed70973c13" />
 </div>
 <br>
 
 ## ✔ System Architecture
 <div align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/4567b7f3-df2b-450d-b9e9-72a1c6ffaeb5" />
+  <img width="800" src="https://github.com/user-attachments/assets/f931153e-740a-4388-80b0-e862c70385c5" />
 </div>
 <br>
 <br>
