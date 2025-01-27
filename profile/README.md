@@ -127,14 +127,14 @@
 
 ## ✔ System Architecture
 <div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/4567b7f3-df2b-450d-b9e9-72a1c6ffaeb5" />
+  <img width="800" src="https://github.com/user-attachments/assets/4567b7f3-df2b-450d-b9e9-72a1c6ffaeb5" />
 </div>
 <br>
 <br>
 
 ## ✔ ER Diagram
 <div align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/5f04ac74-6bba-48b2-a5df-9743067a496d" />
+  <img width="800" src="https://github.com/user-attachments/assets/5f04ac74-6bba-48b2-a5df-9743067a496d" />
 </div>
 <br>
 <br>
